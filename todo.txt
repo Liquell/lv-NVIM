@@ -1,0 +1,6 @@
+Install mappings
+Install copilot
+Install plugins
+Disable opacity on LSP menu
+Install COC
+
